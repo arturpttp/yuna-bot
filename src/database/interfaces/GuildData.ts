@@ -16,4 +16,5 @@ export interface GuildData {
     };
     enabled: boolean;
   };
+  createdAt: Date;
 }
